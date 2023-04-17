@@ -1,0 +1,34 @@
+# outsized data files
+data/dublinbikes*.csv
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+dublinbikes/dublinbikes_20180701_20181001.csv
+dublinbikes/dublinbikes_20181001_20190101.csv
+dublinbikes/dublinbikes_20190101_20190401.csv
+dublinbikes/dublinbikes_20190401_20190701.csv
+dublinbikes/dublinbikes_20190701_20191001.csv
+dublinbikes/dublinbikes_20191001_20200101.csv
+dublinbikes/dublinbikes_20200101_20200401.csv
+dublinbikes/dublinbikes_20200401_20200701.csv
+dublinbikes/dublinbikes_20200701_20201001.csv
+dublinbikes/dublinbikes_20201001_20210101.csv
+dublinbikes/dublinbikes_20210101_20210401.csv
+dublinbikes/dublinbikes_20210401_20210701.csv
+dublinbikes/dublinbikes_20210701_20211001.csv
+dublinbikes/dublinbikes_20211001_20220101.csv
+data/full_data.csv
